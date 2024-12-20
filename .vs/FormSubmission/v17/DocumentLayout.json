@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|c:\\users\\anh.hoang\\onedrive - cyclone computer co ltd\\formsubmission\\formsubmission\\models\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|solutionrelative:formsubmission\\models\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|c:\\users\\anh.hoang\\onedrive - cyclone computer co ltd\\formsubmission\\formsubmission\\views\\form\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|solutionrelative:formsubmission\\views\\form\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|c:\\users\\anh.hoang\\onedrive - cyclone computer co ltd\\formsubmission\\formsubmission\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|solutionrelative:formsubmission\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|c:\\users\\anh.hoang\\onedrive - cyclone computer co ltd\\formsubmission\\formsubmission\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|solutionrelative:formsubmission\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|c:\\users\\anh.hoang\\onedrive - cyclone computer co ltd\\formsubmission\\formsubmission\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|solutionrelative:formsubmission\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|c:\\users\\anh.hoang\\onedrive - cyclone computer co ltd\\formsubmission\\formsubmission\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|solutionrelative:formsubmission\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|c:\\users\\anh.hoang\\onedrive - cyclone computer co ltd\\formsubmission\\formsubmission\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|solutionrelative:formsubmission\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|c:\\users\\anh.hoang\\onedrive - cyclone computer co ltd\\formsubmission\\formsubmission\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|solutionrelative:formsubmission\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|c:\\users\\anh.hoang\\onedrive - cyclone computer co ltd\\formsubmission\\formsubmission\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|solutionrelative:formsubmission\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|c:\\users\\anh.hoang\\onedrive - cyclone computer co ltd\\formsubmission\\formsubmission\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|solutionrelative:formsubmission\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|c:\\users\\anh.hoang\\onedrive - cyclone computer co ltd\\formsubmission\\formsubmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0144DF-3C7B-4293-8B35-27654E67C2D8}|FormSubmission\\FormSubmission.csproj|solutionrelative:formsubmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 261,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FormSubmission\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FormSubmission\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-19T23:03:09.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FormSubmission\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FormSubmission\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T22:38:48.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FormSubmission\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FormSubmission\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T22:38:47.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FormSubmission\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FormSubmission\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T05:24:06.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormController.cs",
+              "DocumentMoniker": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Controllers\\FormController.cs",
+              "RelativeDocumentMoniker": "FormSubmission\\Controllers\\FormController.cs",
+              "ToolTip": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Controllers\\FormController.cs",
+              "RelativeToolTip": "FormSubmission\\Controllers\\FormController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:44:39.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Views\\Form\\Index.cshtml",
+              "RelativeDocumentMoniker": "FormSubmission\\Views\\Form\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Views\\Form\\Index.cshtml",
+              "RelativeToolTip": "FormSubmission\\Views\\Form\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T05:16:41.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form.cs",
+              "DocumentMoniker": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Models\\Form.cs",
+              "RelativeDocumentMoniker": "FormSubmission\\Models\\Form.cs",
+              "ToolTip": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Models\\Form.cs",
+              "RelativeToolTip": "FormSubmission\\Models\\Form.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:12:35.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "FormSubmission\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "FormSubmission\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-19T23:04:26.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "FormSubmission\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "FormSubmission\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T22:39:20.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Program.cs",
+              "RelativeDocumentMoniker": "FormSubmission\\Program.cs",
+              "ToolTip": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Program.cs",
+              "RelativeToolTip": "FormSubmission\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:36:08.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FormSubmission\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anh.hoang\\OneDrive - Cyclone Computer Co Ltd\\FormSubmission\\FormSubmission\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FormSubmission\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T03:32:11.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
